@@ -1,0 +1,9 @@
+.corpo{ 
+   background-color: rgb(247, 247, 247);
+   text-align: center;
+   color: black;
+   border:2cm;
+   border-color: black;
+   border-style: double;
+   border-radius: 15px;
+}
